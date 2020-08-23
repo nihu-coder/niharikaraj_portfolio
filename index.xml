@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niharika Raj</title>
+    <link>https://nihucoder123.github.io/niharikaraj_portfolio/</link>
+    <description>Recent content on Niharika Raj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://nihucoder123.github.io/niharikaraj_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>movie vala</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Paper</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-4/</link>
+      <pubDate>Wed, 12 Feb 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-4/</guid>
+      <description>Abstract Currently, Diabetes and the associated Diabetic Retinopathy (DR) instances are increasing at an alarming rate. Numerous previous research has focused on automated DR detection from fundus photography. The classification of severe cases of pathological indications in the eye has achieved over 90% accuracy. Still, the mild cases are challenging to detect due to CNN inability to identify the subtle features, discrimnative of disease. The data used (i.e. annotated fundus photographies) was obtained from 2 publicly available sources – Messidor and Kaggle.</description>
+    </item>
+    
+    <item>
+      <title>IPL Score Prediction</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-2/</link>
+      <pubDate>Fri, 10 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-2/</guid>
+      <description>This tool helps the user to predict the runs of ipl matches. The dataset is downloaded from kaggle and it has approx 11k training examples and around 3k testing examples. Engineered features from the text to quantify the value and see on which features the flight price is more dependent. Removing the same features which are highly correlated so to avoid curse of dimensionality. Optimized Random Forest Regressors using RandomizedsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Delhi Airport Flight Price Estimator</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 09 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-1/</guid>
+      <description>Created a tool that helps user to predict the price of the flight. The dataset is downloaded from kaggle and it has approx 11k training examples and around 3k testing examples. Engineered features from the text to quantify the value and see on which features the flight price is more dependent. Removing the same features which are highly correlated so to avoid curse of dimensionality. Optimized Random Forest Regressors using RandomizedsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Customer Churn Modelling</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-8/</link>
+      <pubDate>Fri, 14 Jun 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer Learning car brand classification</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-7/</link>
+      <pubDate>Sat, 14 Apr 2018 11:25:05 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer Learning malaria detection</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sports person image classifer</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/post/chapter-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nihucoder123.github.io/niharikaraj_portfolio/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nihucoder123.github.io/niharikaraj_portfolio/contacts/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Portfolio: https://nihucoder123.github.io/niharikaraj_portfolio   LinkedIn: https://www.linkedin.com/in/niharika-raj-aaa207186   GitHub: https://github.com/nihu-coder    </description>
+    </item>
+    
+  </channel>
+</rss>
